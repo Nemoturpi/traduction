@@ -1,0 +1,12 @@
+﻿CAPITOLO V
+
+PARTICOLARI: CARATTERI E VICENDE DEI: BENI' PUBBLICI
+
+26- InalienabilitÃ  e imprescrittibilitÃ  dei beni di proprietÃ  collettiva. '
+
+L' art. 823 c.c. dice che i â€œbeni demanialiâ€ sono inalienabili, e non possono formare oggetto di diritti a favore di terzi se non nei modi e nei limiti stabiliti dalla legge; quanto ai beni del â€œpatrimonio indisponibileâ€, abbiamo giÃ  detto che le norme si limitano a disporre che essi non possono essere sottratti alla loro destinazione.
+
+La dottrina tradizionale afferma che i beni demaniali sono inalienabili, incommerciabili, imprescrittibili, si aggiunge anche da taluni â€œindisponibiliâ€; i beni del patrimonio indisponibile sarebbero invece solo indisponibili sinchÃ¨ dura. la . loro destinazione; cessando questa rientrerebsr 'bero nelle norme comuni. L' elaborazione dottrinale Ã¨ peraltro molto confusa. Spesso i vocaboli sono impiegati in significati diversi, e in piÃ¹ d' un caso le dispute sono state solo verbali. Si puÃ² adesso dire che l'oscuritÃ  della materia Ã¨ frutto delle confusioni di fondo che sono state fatte sulle nozioni di bene demaniale e patrimoniale indisponibile, 'confusioni sulle quali ci siamo intrattenuti giÃ  piÃ¹ volte (nn. 2 9,14, 16,19). Basti qui osservare che la cessazione di fatto della destinazione di un bene di proprietÃ  individuale che
+
+96 N 11 codice classifica tra quelli Patrimoniazi - p.es. miniera esaurita ed abbandonata, caso tao, nata - produce le medesime conseguenze a bang, cessazione di fatto dell'uso di un bene di pro, no de il codice invece classifica tra i beni denanta, oe e vecchio tratto di strada pubblica abbandonat i â€œ bey 0 alveo dÃ¬ torrente abbandonato -. Se cioÃ¨ si annesito dl sazione tacita del c.d. vincolo di destinazione lac bene indisponibile, e se si ammette la ca, sdena. ca, zione tacita, le conseguenze son le medesime: che lea, giÃ  di proprietÃ  pubblica, (individuale o collettiva bene nuto di proprietÃ  individuale Privata dell'ente pun. dito: cade sotto le norme di diritto comune, Ã¨ quindi e blico, usucapibile, 'Des, Anche in ordine. a queste norme positive dobbi ano ' di concludere cosÃ¬' come abbiamo concluso nella doni della struttura dei vari tipi di beni pubblici, ossia e esse enunciano delle regole generiche, valide solo in pan te, e non sempre nei termini che Specificamente le espri, mono, regole che il legislatore introdusse allo Scopo di semplificare, ma senza aver consapevolezza profonda .di quel che andava a dire. I problemi 'vanno impostati partendo da un approccio completamente diverso.
+

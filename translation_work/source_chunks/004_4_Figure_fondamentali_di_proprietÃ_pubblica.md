@@ -1,0 +1,20 @@
+﻿4. Figure fondamentali di proprietÃ  pubblica.
+
+Ma in realtÃ  v'Ã¨ qualcosa di piÃ¹ di una commistione di canoni; vi Ã¨ una commistione di istituti giuridici diversi, se cosÃ¬ si puÃ² dire.
+
+Ãˆ superfluo dire che i beni pubblici, in quanto sono innanzitutto dei beni, possono formare oggetto di diritti reali diversi, alcuni pieni, altri parziari; Ã¨ forse anche superfluo avvertire che come i beni privati anche i beni pubblici non costituiscono una categoria oggettivamente uniforme, ma differenziata per qualitÃ  giuridiche tanto
+
+'strutturali (semplici e composti, mobili e immobili, principali e accessori).quanto funzionali. Di questi diritti e qualitÃ  vedremo via via; ma non sono essi a dar luogo alla diversitÃ  di istituti giuridici a cui alludevamo, quanto Ã¨ invece il principale dei diritti reali che si bone come differenziato, cioÃ¨ la proprietÃ . Anche se noi circoscriviamo il nostro esame alle vicende giuridiche dei popoli a noi piÃ¹ vicini nel tempo, e di piÃ¹ elevata civiltÃ , ossia anche se eliminiamo dal no'Stro orizzonte le vicende che possono essere ritenute rape presentative di valori meramente etnologici, constatiamo che la proprietÃ  pubblica sempre sÃ¬ presenta in tre figure prinee cipali: la proprietÃ  collettiva, la proprietÃ  divisa, la proprietÃ  individuale.
+
+Di queste figure la piÃ¹ nota ela terza, perchÃ¨ oggi Ã¨:- come sappiamo =- dominante nei rapporti interprivati, cioÃ¨ come proprietÃ  individuale privata. Le prime due invece sono poco note, da alcuni addirittura oppugnate 'e. negate: la ragione di ciÃ² Ã¨ che nei rapporti interprivati di oggi esse sono figure anomale ovvero residui storici La lunga soggezione della scienza del diritto amministrati vo. a quella del diritto privato ha finanche impedito alla prima di riconoscere in modo esatto i propri domini.
+
+Dei caratteri di queste figure diremo tra poco. Qui vogliamo mostrare la fondatezza di quanto abbiamo asserito: che esse esistono in ogni tempo ed in ogni luogo; ci basta quindi una descrizione sommaria, e a questi fini diremo che nella proprietÃ  collettiva il tratto giuridico saliente Ã¨ costituito dal godimento di utilitÃ  della cosa che spetta a tutti gli appartenenti ad una collettivitÃ , cio'che varia Ã¨ il contenuto del godimento, la specie. dell'utilitÃ , la situazione soggettiva degli appartenenti alla collettivitÃ  in ordine alla cosa, il carattere aperto o chiuso o altro della collettivitÃ , l'organizzazione della collettivitÃ : come si vede, le variabili sono parecchie.
+
+Nella proprietÃ  divisa l'appartenenza e il godimento della cosa sono ripartiti fra due soggetti giuridici, nel Senso che a ciascuno di essi compete un'appartenenza di una certa specie o il godimento di una certa specie: sicche ciascuno puÃ² disporre del proprio diritto senza incidere in quello dell'altro, e puÃ² godere delle utilitÃ  della co sa nella misura che gli spetta. Anche per questa proprieta valgono tutte le variabili dette per la precedente, meno quelle relative alla collettivitÃ : in compenso vi sono altre variabili; i rapporti tra i soggetti proprietari, l'incidenza di fatti di ropravvivenza.
+
+Nella proprietÃ  individuale ad un solo Soggetto spettano l'appartenenza e il godimento, ma ambedue possono presentare una molteplicitÃ  di gradazioni, sino al punto da esser condizionate da fatti esterni o da atti altrui,e, per quanto attiene al godimento, fino a ridursi entro. margini esigui. Quindi anche questa figura presenta variabili, che Sono piÃ¹ ricche di quelle proprie delle prime due figure, perchÃ¨ questa figura Ã¨ per sua stessa natura piÃ¹ ricca delle altre due, concentrando in un solo soggetto ciÃ² che nelle altre o Ã¨ diviso o non ha rilievo.
+
+Per fissare subito dei riferimenti, diremo che nel di. ritto vigente un esempio di proprietÃ  pubblica collettiva Ã¨ il dominio collettivo, di proprietÃ  pubblica divisa la concessione perpetua di particolari beni, quali le nminiere, di proprietÃ  pubblica individuale il c.d. demanio nmilitare.
+
+La rassegna che stiamo per fare non ha scopi sistema. tici o classificatori, ma solo dimostrativi.
+
