@@ -7,7 +7,7 @@ New-Item -ItemType Directory -Force -Path $outDir | Out-Null
 
 $files = Get-ChildItem -LiteralPath $chunkDir -Filter "*.md" | Sort-Object Name
 $content = foreach ($file in $files) {
-  Get-Content -LiteralPath $file.FullName
+  Get-Content -LiteralPath $file.FullName -Encoding UTF8
   ""
 }
 
