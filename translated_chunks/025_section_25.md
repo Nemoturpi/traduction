@@ -22,7 +22,7 @@ En outre, l'administration peut acquérir de manière coercitive les choses d'ar
 
 Si l'administration n'exerce pas le soi-disant droit de préemption, l'acte de transfert du bien demeure autorisé.
 
-Un autre pouvoir d'acquisition est attribué à l'administration lorsque la chose d'art, même non notifiée, est présentée à l'exportation : l'administration peut s'approprier la chose à la valeur déclarée pour l'exportation ; ici encore, nous avons un acte ablatif, mais plus proche de l'expropriation. [À VÉRIFIER : le texte OCR donne « plus semblable à l'exportation », formulation incohérente ; le contexte suggère « expropriation ».]
+Un autre pouvoir d'acquisition est attribué à l'administration lorsque la chose d'art, même non notifiée, est présentée à l'exportation : l'administration peut s'approprier la chose à la valeur déclarée pour l'exportation ; ici encore, nous avons un acte ablatif, mais plus proche de l'expropriation. [À VÉRIFIER : l'image du PDF confirme « più simile all'esportazione », formulation incohérente ; le contexte doctrinal suggère une coquille pour « espropriazione ».]
 
 Si l'administration ne s'approprie pas la chose, à la différence de ce qui advient pour la soi-disant préemption, elle doit ici édicter une mesure positive de caractère autorisateur, qui est la licence d'exportation.
 
