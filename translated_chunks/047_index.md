@@ -68,7 +68,7 @@ Chap. V - CARACTÈRES ET VICISSITUDES PARTICULIERS DES BIENS PUBLICS
 
 27. Caractère naturel ou artificiel des biens publics, 98
 
-28. Situations et vicissitudes des biens publics naturels, 99
+28. Situation et transformations des biens publics naturels, 99
 
 29. Suite : des biens publics artificiels, 105
 
@@ -92,11 +92,11 @@ Chap. VI - DISCIPLINE PUBLIQUE DES BIENS PRIVÉS
 
 38. Discipline positive de l'usage des biens
 
-39. La propriété édilitaire, 139
+39. La propriété bâtie, 139
 
 40. La propriété foncière, 146
 
-41. Usage contrôlé de biens et discipline publique de l'entreprise, 153
+41. Usage contrôlé de biens et régime public de l'entreprise, 153
 
 42. Biens à circulation contrôlée, 155
 

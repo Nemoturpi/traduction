@@ -20,3 +20,9 @@
 - Section 46 : fusionnée dans le chunk source de la section 45 ; titre rétabli dans la traduction.
 - Section 49 : plusieurs exemples chiffrés de distances sont très corrompus dans l'OCR ; ils ont été traduits qualitativement sans inventer de valeurs exactes.
 - Index final : la pagination et plusieurs numéros sont corrompus dans l'OCR ; les intitulés traduits ont été harmonisés avec les sections correspondantes, et les pages n'ont été conservées que lorsqu'elles étaient lisibles ou très probables.
+
+## Relecture juridique francophone
+
+- Harmonisation effectuée : `disciplina` a été rendu selon le contexte par « régime », « réglementation », « encadrement », « organisation » ou « règles » ; `provvedimento` par « acte administratif » ou « acte » lorsque la catégorie juridique est en cause ; `istituto` par « figure », « mécanisme » ou « institution » seulement lorsque l'usage français le permet ; `soggetto` par « personne », « titulaire », « bénéficiaire » ou « sujet de droit » selon le contexte.
+- Harmonisation effectuée : `proprietà edilizia` est désormais rendu par « propriété bâtie » et non par le calque « propriété édilitaire » ; `vicissitudine` est rendu par « transformation », « changement », « modification » ou « opération » selon le passage.
+- Les incertitudes restantes ne portent pas sur cette harmonisation terminologique, mais sur les passages explicitement balisés `[À VÉRIFIER]`, tous liés à la qualité de l'OCR ou à des portions de source dégradées.

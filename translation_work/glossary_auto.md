@@ -28,7 +28,7 @@ Ce glossaire est évolutif. Il privilégie la cohérence doctrinale et le franç
 | senso soggettivo | sens subjectif | Pour la qualification du bien public par appartenance à une personne publique. |
 | senso oggettivo | sens objectif | Pour la qualification du bien public par utilité fournie à une collectivité publique. |
 | collettività pubblica | collectivité publique | |
-| istituti dominicali | institutions dominicales | Terme doctrinal large lié à l'appropriation d'utilités d'un bien. |
+| istituti dominicali | figures dominicales | Terme doctrinal large lié à l'appropriation d'utilités d'un bien. |
 | godimento | jouissance | Au sens juridique : jouissance des utilités de la chose. |
 | appartenenza | appartenance | À conserver pour le vocabulaire dogmatique de Giannini. |
 | diritti reali parziari | droits réels partiels | |
@@ -82,14 +82,14 @@ Ce glossaire est évolutif. Il privilégie la cohérence doctrinale et le franç
 | antica utenza di acqua pubblica | ancienne utilisation d'eau publique | |
 | cose d'arte | choses d'art | Expression de la loi italienne ; parfois proche de « biens culturels ». |
 | notificazione | notification | Pour les choses d'art privées. |
-| diritto di prelazione | droit de préemption | Chez Giannini, analysé comme mesure ablatoire. |
+| diritto di prelazione | droit de préemption | Chez Giannini, analysé comme acte ablatif. |
 | beni naturali | biens naturels | |
 | beni artificiali | biens artificiels | |
 | appartenenza naturale necessaria | appartenance naturelle nécessaire | |
 | sclassificazione | déclassement | Pour la perte de qualification publique/domaniale. |
 | sdemanializzazione tacita | déclassement tacite du domaine public | |
 | vincolo di scopo | contrainte de finalité | Proche mais pas toujours identique à l'affectation obligatoire. |
-| provvedimenti concessori | mesures concessives | |
+| provvedimenti concessori | actes concessifs | « Provvedimento » est rendu par « acte administratif » ou « acte » selon le contexte, non par « mesure » lorsque l'analyse porte sur la catégorie juridique. |
 | concessioni di produzione | concessions de production | |
 | concessioni di cosa | concessions de chose | |
 | canone | redevance | |
@@ -98,7 +98,7 @@ Ce glossaire est évolutif. Il privilégie la cohérence doctrinale et le franç
 | bellezze naturali | beautés naturelles | Catégorie des biens culturels/paysagers. |
 | beni culturali della Nazione | biens culturels de la Nation | |
 | piani paesistici | plans paysagers | |
-| proprietà edilizia | propriété édilitaire | Terme technique ; éviter « propriété immobilière » lorsqu'il vise la construction. |
+| proprietà edilizia | propriété bâtie | Choix harmonisé en relecture juridique ; éviter « propriété immobilière » lorsqu'il vise spécifiquement la construction soumise au régime urbanistique. |
 | piano regolatore | plan régulateur | Urbanisme italien. |
 | licenza edilizia | permis de construire | Traduction fonctionnelle. |
 | proprietà terriera | propriété foncière | |
