@@ -2,6 +2,10 @@
 
 Source repérée : `Giannini_I_Beni_Pubblici_final.txt`
 
+Source visuelle de contrôle fournie : `C:\Users\kolbe\Downloads\Giannini - I Beni Pubblici_OCR.pdf`
+
+Note : la couche OCR du PDF est signalée comme peu fiable ; le PDF doit servir à contrôler visuellement les passages corrompus du `.txt`, non comme base textuelle principale.
+
 ## Structure initiale
 
 - Front matter bibliographique et séparateur.

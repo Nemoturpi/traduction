@@ -13,3 +13,4 @@
 - Section 19 : le chunk source contient aussi la section 20 ; séparation logique rétablie dans la traduction.
 - Section 22 : OCR très corrompu autour de la définition de la réserve originaire et de la distinction réserve de biens / réserve d'entreprise ; deux balises `[À VÉRIFIER]` ont été ajoutées.
 - Section 25 : le passage relatif au pouvoir d'acquisition lors de l'exportation semble contenir une erreur OCR ou de source ; le contexte suggère « expropriation », signalé par `[À VÉRIFIER]`.
+- Source de contre-vérification disponible localement : `C:\Users\kolbe\Downloads\Giannini - I Beni Pubblici_OCR.pdf`. La couche OCR du PDF est peu fiable ; vérifier les images des pages plutôt que le texte extrait.
