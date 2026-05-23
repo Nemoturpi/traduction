@@ -83,3 +83,38 @@ Ce glossaire est évolutif. Il privilégie la cohérence doctrinale et le franç
 | cose d'arte | choses d'art | Expression de la loi italienne ; parfois proche de « biens culturels ». |
 | notificazione | notification | Pour les choses d'art privées. |
 | diritto di prelazione | droit de préemption | Chez Giannini, analysé comme mesure ablatoire. |
+| beni naturali | biens naturels | |
+| beni artificiali | biens artificiels | |
+| appartenenza naturale necessaria | appartenance naturelle nécessaire | |
+| sclassificazione | déclassement | Pour la perte de qualification publique/domaniale. |
+| sdemanializzazione tacita | déclassement tacite du domaine public | |
+| vincolo di scopo | contrainte de finalité | Proche mais pas toujours identique à l'affectation obligatoire. |
+| provvedimenti concessori | mesures concessives | |
+| concessioni di produzione | concessions de production | |
+| concessioni di cosa | concessions de chose | |
+| canone | redevance | |
+| beni d'interesse pubblico | biens d'intérêt public | Expression descriptive, non catégorie systématique selon Giannini. |
+| funzione sociale della proprietà | fonction sociale de la propriété | Expression discutée et jugée surtout descriptive/générique. |
+| bellezze naturali | beautés naturelles | Catégorie des biens culturels/paysagers. |
+| beni culturali della Nazione | biens culturels de la Nation | |
+| piani paesistici | plans paysagers | |
+| proprietà edilizia | propriété édilitaire | Terme technique ; éviter « propriété immobilière » lorsqu'il vise la construction. |
+| piano regolatore | plan régulateur | Urbanisme italien. |
+| licenza edilizia | permis de construire | Traduction fonctionnelle. |
+| proprietà terriera | propriété foncière | |
+| riforma agraria | réforme agraire | |
+| bonifica agraria | bonification agraire | |
+| ammasso obbligatorio | stockage obligatoire | |
+| registrazione | enregistrement | Procédure relative aux biens à circulation contrôlée. |
+| diritti collettivi di uso | droits collectifs d'usage | |
+| strade vicinali | routes vicinales | |
+| diritti promiscui | droits mixtes | |
+| affrancazione | affranchissement | Pour les usages civiques. |
+| servitù demaniali | servitudes domaniales | Terme traditionnel critiqué. |
+| servitù patrimoniali | servitudes patrimoniales | Terme traditionnel critiqué. |
+| servitù di elettrodotto | servitude de ligne électrique | Équivalence retenue pour éviter le calque technique instable « électroduc ». |
+| fondo dominante | fonds dominant | |
+| fondo servente | fonds servant | |
+| via alzaia | chemin de halage | |
+| limitazioni amministrative alla proprietà | limitations administratives à la propriété | |
+| zone di rispetto | zones de respect | |

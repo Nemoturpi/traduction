@@ -1,0 +1,12 @@
+48. Quelques servitudes publiques.
+
+Nous avons dit que les servitudes publiques n'ont pas de physionomie propre, leur contenu étant identique à celui de servitudes déjà connues du code civil. Précisons toutefois que des normes positives peuvent modifier, sur des aspects mineurs et de détail, les normes du code civil, par exemple pour ce qui concerne la constitution et l'extinction, ou la mesure de la contrainte.
+
+La doctrine cite cependant certaines servitudes qui, par leur contenu, n'auraient pas de correspondants dans les rapports interprivés. Les plus importantes sont la servitude de chemin de halage et la servitude de déversement des lacs.
+
+La servitude de chemin de halage, ou de marchepied, se constitue au profit des eaux publiques, « fleuves navigables » selon la loi sur la navigation intérieure qui la discipline (T.U. 11 juillet 1913, n. 959, art. 52), mais en réalité aussi des canaux, lacs, etc. Elle grève les fonds des propriétaires riverains, qui doivent laisser une zone le long de la rive, libre d'obstacles, pour le passage des hommes et des moyens. La largeur de la voie, à défaut de dispositions spéciales, doit être d'au moins cinq mètres ; l'entretien incombe à l'État ; si l'eau corrode le chemin de halage, celui-ci se déplace corrélativement, aux frais de l'État, mais sans indemnité pour les propriétaires.
+
+Puisque les eaux navigables sont aujourd'hui toutes publiques, cette servitude ne peut pratiquement plus être que publique ; toutefois, par le passé, elle pouvait aussi être privée et peut encore subsister pour les canaux privés.
+
+La servitude de déversement des eaux des lacs, ou d'inondation, est en revanche effectivement seulement publique : le fonds dominant y est constitué par les lacs, les fonds servants sont certains fonds riverains destinés à la submersion lorsque les eaux du lac, pour des causes naturelles ou pour des fins hydrauliques particulières, doivent pouvoir trouver un exutoire afin de ne pas déborder de manière désordonnée. Ces servitudes sont réglées par des lois spéciales sur les lacs padans et sur les consortiums fluviaux correspondants ; elles comportent une indemnité en faveur des propriétaires riverains et la réparation des dommages lorsque l'inondation se produit naturellement ou est activée. De leur côté, les propriétaires ont toutefois une obligation rémunérée de bonifier les terres, si nécessaire, une fois la décrue intervenue.
+

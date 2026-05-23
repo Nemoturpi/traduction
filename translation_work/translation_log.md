@@ -48,3 +48,31 @@ Note : la couche OCR du PDF est signalée comme peu fiable ; le PDF doit servir 
 | 023 | Section 23 | Traduit | `translated_chunks/023_section_23.md` |
 | 024 | Section 24 | Traduit | `translated_chunks/024_section_24.md` |
 | 025 | Section 25 | Traduit | `translated_chunks/025_section_25.md` |
+| 026 | Chapitre V + section 26 | Traduit | `translated_chunks/026_chapitre_v_section_26.md` |
+| 027 | Section 27 | Traduit | `translated_chunks/027_section_27.md` |
+| 028 | Section 28 | Traduit | `translated_chunks/028_section_28.md` |
+| 029 | Sections 29-30 | Traduit | `translated_chunks/029_sections_29_30.md` ; section 30 fusionnée dans le chunk OCR de la section 29 |
+| 030 | Section 31 | Traduit | `translated_chunks/030_section_31.md` |
+| 031 | Section 32 | Traduit | `translated_chunks/031_section_32.md` |
+| 032 | Chapitre VI + section 33 | Traduit | `translated_chunks/032_chapitre_vi_section_33.md` ; titre OCR `833` rétabli en `33` |
+| 033 | Sections 34-35 | Traduit | `translated_chunks/033_sections_34_35.md` |
+| 034 | Section 36 | Traduit | `translated_chunks/034_section_36.md` |
+| 035 | Section 37 | Traduit | `translated_chunks/035_section_37.md` ; titre OCR répété comme `36` rétabli en `37` |
+| 036 | Section 38 | Traduit | `translated_chunks/036_section_38.md` |
+| 037 | Section 39 | Traduit | `translated_chunks/037_section_39.md` |
+| 038 | Sections 40-41 | Traduit | `translated_chunks/038_sections_40_41.md` |
+| 039 | Section 42 | Traduit | `translated_chunks/039_section_42.md` |
+| 040 | Chapitre VII | Traduit | `translated_chunks/040_chapitre_vii.md` |
+| 041 | Section 43 | Traduit | `translated_chunks/041_section_43.md` |
+| 042 | Section 44 | Traduit | `translated_chunks/042_section_44.md` |
+| 043 | Sections 45-46 | Traduit | `translated_chunks/043_sections_45_46.md` ; section 46 fusionnée dans le chunk OCR de la section 45 |
+| 044 | Section 47 | Traduit | `translated_chunks/044_section_47.md` |
+| 045 | Section 48 | Traduit | `translated_chunks/045_section_48.md` |
+| 046 | Section 49 | Traduit | `translated_chunks/046_section_49.md` |
+| 047 | Index final | Traduit | `translated_chunks/047_index.md` ; pagination conservée quand lisible, corrections logiques sur les numéros de sections |
+
+## Vérification finale
+
+- Harmonisation terminologique : `elettrodotto` rendu par « ligne électrique » dans les sections 8 et 47.
+- Contrôle prévu après assemblage : absence de mojibake (`Ã©`, `Ã¨`, `Ãª`, `Ã `, `Ã®`, `Ã´`, `Ã¹`, `Ã§`, `Â«`, `Â»`) dans l'output final.
+- L'index final a été traduit depuis une source OCR très corrompue ; les titres ont été harmonisés avec les intitulés retenus dans la traduction.
