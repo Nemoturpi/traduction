@@ -63,3 +63,23 @@ Ce glossaire est évolutif. Il privilégie la cohérence doctrinale et le franç
 | uso generale | usage général | |
 | uso speciale | usage spécial | |
 | uso eccezionale | usage exceptionnel | |
+| beni patrimoniali disponibili | biens patrimoniaux disponibles | Propriété individuelle privée de la personne publique. |
+| beni patrimoniali indisponibili | biens patrimoniaux indisponibles | Propriété individuelle publique. |
+| proprietà individuale pubblica | propriété individuelle publique | |
+| proprietà individuale privata | propriété individuelle privée | |
+| autorizzazione agli acquisti | autorisation aux acquisitions | Institution de contrôle des acquisitions immobilières. |
+| manomorta | mainmorte | Terme économique/juridique historique. |
+| destinazione aziendale | destination d'entreprise | Peut viser l'entreprise ou l'organisation de l'entité publique. |
+| destinazione nazionale | destination nationale | Biens gérés par l'État pour des utilités collectives générales. |
+| demanio minerario | domaine minier | Souvent entre guillemets lorsque Giannini critique la catégorie. |
+| demanio forestale | domaine forestier | Souvent entre guillemets lorsque Giannini critique la catégorie. |
+| demanio archeologico | domaine archéologique | Catégorie critiquée par l'auteur. |
+| effettività del vincolo di destinazione | effectivité de l'affectation obligatoire | |
+| riserva originaria | réserve originaire | |
+| beni nazionali | biens nationaux | Biens à destination nationale réservés à l'État. |
+| jus sepulchri | jus sepulchri | Locution latine conservée. |
+| concessione mineraria perpetua | concession minière perpétuelle | |
+| antica utenza di acqua pubblica | ancienne utilisation d'eau publique | |
+| cose d'arte | choses d'art | Expression de la loi italienne ; parfois proche de « biens culturels ». |
+| notificazione | notification | Pour les choses d'art privées. |
+| diritto di prelazione | droit de préemption | Chez Giannini, analysé comme mesure ablatoire. |

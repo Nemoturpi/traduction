@@ -36,3 +36,11 @@ Source repérée : `Giannini_I_Beni_Pubblici_final.txt`
 | 015 | Section 14 | Traduit | `translated_chunks/015_section_14.md` ; passage OCR corrompu signalé |
 | 016 | Section 15 | Traduit | `translated_chunks/016_section_15.md` ; titre OCR coupé reconstitué |
 | 017 | Section 16 | Traduit | `translated_chunks/017_section_16.md` |
+| 018 | Chapitre III | Traduit | `translated_chunks/018_chapitre_iii.md` |
+| 019 | Section 17 | Traduit | `translated_chunks/019_section_17.md` |
+| 020 | Section 18 | Traduit | `translated_chunks/020_section_18.md` ; OCR corrompu dans certains passages, sens rétabli |
+| 021 | Sections 19-20 | Traduit | `translated_chunks/021_sections_19_20.md` ; section 20 fusionnée dans le chunk OCR de la section 19 |
+| 022 | Sections 21-22 + Chapitre IV | Traduit | `translated_chunks/022_sections_21_22_chapitre_iv.md` ; chunk OCR fusionné et très corrompu |
+| 023 | Section 23 | Traduit | `translated_chunks/023_section_23.md` |
+| 024 | Section 24 | Traduit | `translated_chunks/024_section_24.md` |
+| 025 | Section 25 | Traduit | `translated_chunks/025_section_25.md` |

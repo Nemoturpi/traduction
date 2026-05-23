@@ -8,4 +8,4 @@
 - Garder les guillemets français pour les citations et expressions doctrinales lorsque le contexte s'y prête.
 - Préserver les paragraphes, les séparateurs Markdown et la table des matières ; ne pas supprimer les scories OCR si elles sont nécessaires à la vérifiabilité, mais les neutraliser dans la traduction finale lorsqu'elles sont manifestement typographiques.
 - Ne pas moderniser la doctrine : conserver la terminologie et les distinctions conceptuelles de Giannini.
-
+- Vérification finale obligatoire : contrôler les fichiers assemblés pour les séquences d'encodage défectueux typiques (`Ã©`, `Ã¨`, `Ãª`, `Ã `, `Ã®`, `Ã´`, `Ã¹`, `Ã§`, `Â«`, `Â»`) avant livraison.
